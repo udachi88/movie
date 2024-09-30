@@ -1,0 +1,25 @@
+Welcome to short installation
+
+1. Upload and Extraxt file on hosting
+
+2. Open config.php
+
+3. Field all form like 
+
+
+$config->tmdbapi = array(
+	"API_TMDB_ORG"
+	);
+
+change API_TMDB_ORG with your API
+
+4. Open signup.php
+
+5. Done.
+======================================
+
+Install
+https://youtu.be/dvSYoVl6t8o
+
+video cara membuat api tmdb 
+https://www.youtube.com/watch?v=82FsjMmP9R4
